@@ -11,3 +11,4 @@ export class AppComponent {
   secondOperand: number; 
   operator: string; 
   result: number; 
+}
